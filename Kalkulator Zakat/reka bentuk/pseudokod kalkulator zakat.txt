@@ -1,0 +1,17 @@
+MULA
+Isytihar pemboleh ubah kadar, harga_beras, negeri, bil_ahli_keluarga, jenis_zakat, hasil_perniagaan_setahun, jumlah_pendapatan_sebulan
+PILIH jenis_zakat
+Jika pilih zakat fitrah
+	PILIH negeri
+	PILIH harga_beras
+	Masukkan bil_ahli_keluarga
+	kadar = harga_beras * bil_ahli_keluarga
+Jika pilih zakat perniagaan
+	Masukkan hasil_perniagaan_setahun
+	kadar = hasil perniagaan setahun * 25%
+Jika pilih zakat perniagaan
+	Masukkan jumlah_pendapatan_sebulan
+	kadar = hasil perniagaan setahun * 2.5%
+Kira kadar
+PAPARKAN kadar
+	

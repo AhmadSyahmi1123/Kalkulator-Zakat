@@ -1,0 +1,7 @@
+Software Kalkulator Zakat
+
+#pilih jenis zakat
+#pilih negeri(nilai nisab berbeza mengikut jenis zakat)
+#masukkan nilai (yang diperlukan mengikut jenis zakat)
+#Kira (backend stuff)
+#output message/update label nilai yang perlu dibayar
